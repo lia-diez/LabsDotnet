@@ -1,0 +1,15 @@
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\karka\RiderProjects\Lishcuk\Lab1\obj\Debug\net6.0\refint\Lab1.dll
